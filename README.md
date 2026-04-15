@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/UI/Comfy_Icon_Windows.png" alt="Comfy UI" width="600"/>
+</p>
+
 # ComfyUI Desktop for Linux
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
