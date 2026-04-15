@@ -150,7 +150,7 @@ dist/ComfyUI-0.8.30-amd64.deb
 - enabled Linux asset bootstrap in `scripts/preMake.js`
 - enabled Linux verification in `scripts/verifyBuild.js`
 - packaged `desktop-ui` into Linux builds
-- switched Linux target to `.deb` in `builder-debug.config.ts`
+- switched Linux target to `.deb` in `config/builder-debug.config.ts`
 
 ### Runtime
 
